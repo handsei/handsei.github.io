@@ -1,7 +1,9 @@
 # 阪D生
+<a class="twitter-timeline" href="https://twitter.com/TomSnfve?ref_src=twsrc%5Etfw">Tweets by TomSnfve</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 管理人：ジイさん（@TomSnfve）
-IT/通信インフラエンジニア兼春から阪大生（社会人ドクター）. どちらも中途半端ですが元気に活動中.
-- ネットワーク運用自動化基盤構築・検証
+IT/通信インフラエンジニア兼春から阪大生（社会人ドクター）. 二足わらじで元気に活動中.
+- 研究領域：ネットワーク運用管理
     - SDN/NFV
     - JBOSS BRMS
     - OpenStack
@@ -22,9 +24,6 @@ IT/通信インフラエンジニア兼春から阪大生（社会人ドクタ�
 
 ## LT
 阪D生MeetUp#0（今後更新）
-
-## 開発
-自作サイト「つけもの（仮称）」のリニューアル中？
 
 # アカウント
 

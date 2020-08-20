@@ -1,5 +1,5 @@
 # 阪D生
-<a class="twitter-timeline" href="https://twitter.com/TomSnfve?ref_src=twsrc%5Etfw">Tweets by TomSnfve</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="320" data-height="400" data-theme="dark" href="https://twitter.com/TomSnfve?ref_src=twsrc%5Etfw">Tweets by TomSnfve</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 管理人：ジイさん（@TomSnfve）
 IT/通信インフラエンジニア兼春から阪大生（社会人ドクター）. 二足わらじで元気に活動中.

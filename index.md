@@ -41,5 +41,5 @@ IT/通信インフラエンジニア兼春から阪大生（社会人ドクタ�
 |HatenaBlog|[@stkdev](http://wildcardmask.hatenablog.com/)|管理人がITネタ,開発記録,雑談,ポエムなどを自由に書くところ|
 |GitHub|[@handsei](https://github.com/handsei)||.|
 |SlideShare|そのうち作成|勉強会などのために作ったスライドはこちらに公開|
-|Youtube|[阪D生](https://www.youtube.com/channel/UCbQeE1QJSaEMY2RoCRwXiNA/featured?view_as=subscriber)|（活動前）|
+|Radio(SoundCloud)|[阪D生](https://soundcloud.com/sf5lntnhhaz8)|阪D生が生活を題材にトークしています。月イチ程度で更新。|
 |読書メーター|[阪D生]()|積読リスト（これから）|
